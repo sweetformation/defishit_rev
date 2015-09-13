@@ -1,0 +1,33 @@
+@import "reset.css";
+
+
+#container {
+	margin: 50px;
+}
+
+h1 {
+	font-size: 1.5em;
+	font-weight: 700;
+	padding: 20px 0;
+}
+
+#damier tr,
+#damier td {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.case_00,
+.case_11 {
+	background: #000;
+	color: #fff;
+	height: 50px;
+	width: 50px;
+}
+
+.case_10,
+.case_01 {
+	background: #fff;
+	height: 50px;
+	width: 50px;
+}
