@@ -1,0 +1,24 @@
+@import "reset.css";
+
+
+.container {
+	margin: auto;
+	width: 60%;
+}
+
+#damier {
+	margin: 50px auto;
+}
+
+#damier td {
+	height: 40px;
+	width: 40px;
+}
+
+td.c0 {
+	background: black;
+}
+
+td.c1 {
+	background: white;
+}
