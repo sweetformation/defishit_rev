@@ -1,0 +1,19 @@
+@import "reset.css";
+
+
+.container {
+	margin: auto;
+	width: 60%;
+}
+
+#main {
+	margin-top: 50px;
+}
+
+.Comic {
+	font-family: "Comic Sans MS", "cursive";
+}
+
+.Verdana {
+	font-family: "Verdana", "sans-serif";
+}
